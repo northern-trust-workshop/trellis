@@ -12,7 +12,7 @@ homepage:
   enabled: false
 
 limits:
-  max_deapth: 5
+  max_depth: 5
   max_height: 10
   max_aliases: 3
 
